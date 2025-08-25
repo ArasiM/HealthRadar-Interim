@@ -1,4 +1,6 @@
-his repository hosts the data, code, and notebooks developed as part of the HealthRadar Capstone Project. The project aims to build an early warning system for healthcare inequalities across England, with a focus on detecting underserved areas in primary care (GP practices).
+# HealthRadar-Interim
+## Interim report assets: notebooks, scripts, and datasets for HealthRadar capstone project
+This repository hosts the data, code, and notebooks developed as part of the HealthRadar Capstone Project. The project aims to build an early warning system for healthcare inequalities across England, with a focus on detecting underserved areas in primary care (GP practices).
 
 📌 Project Overview
 
