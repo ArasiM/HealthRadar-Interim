@@ -2,7 +2,7 @@
 ## Interim report assets: notebooks, scripts, and datasets for HealthRadar capstone project
 This repository hosts the data, code, and notebooks developed as part of the HealthRadar Capstone Project. The project aims to build an early warning system for healthcare inequalities across England, with a focus on detecting underserved areas in primary care (GP practices).
 
-📌 Project Overview
+## Project Overview
 
 Access to General Practitioners (GPs) remains highly uneven across England, especially in areas of socioeconomic deprivation. Traditional planning approaches rely on static datasets such as the Index of Multiple Deprivation (IMD), which do not capture real-time changes in population, demand, or workforce supply.
 
@@ -22,7 +22,7 @@ Cluster persistent deprivation hotspots.
 
 Delivering outputs as maps, metrics, and dashboards to support NHS England planners, public health analysts, and policymakers.
 
-📊 Data Sources
+## Data Sources
 
 GP Patient Registers (Sept 2023 – Aug 2025) – NHS Digital
 
@@ -37,4 +37,4 @@ QOF Disease Registers (2023/24) – NHS England
 ONS Postcode ↔ Region Mapping & Shapefiles – ONS Geography
 
 All data has been cleaned, harmonised, and normalised for consistent analysis.
-📌 Raw and processed datasets (CSV) are provided in the processed/ folder.
+Raw and processed datasets (CSV) are provided in the processed/ folder.
